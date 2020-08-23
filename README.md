@@ -1,1 +1,1 @@
-# Simples PWA Using only HTML, CSS and Javascript
+# Simplest PWA Using only HTML, CSS and Javascript
